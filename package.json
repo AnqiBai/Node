@@ -1,0 +1,26 @@
+{
+  "name": "@anqib48356/howtonpm",
+  "version": "1.0.0",
+  "description": "Test for how-to-npm course; ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnqiBai/Node.git"
+  },
+  "keywords": [
+    "npm",
+    "test"
+  ],
+  "author": "anqib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnqiBai/Node/issues"
+  },
+  "homepage": "https://github.com/AnqiBai/Node#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
